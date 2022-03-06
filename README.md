@@ -35,7 +35,7 @@ If you have something awesome to share, please send a PR!
 ### Official Resources
 
 - [Sycamore Book](https://sycamore-rs.netlify.app/docs/getting_started/installation) — The official
-  guide to building with Sycamore.
+  guide to building awesome apps with Sycamore.
 
 ### Community
 

@@ -70,6 +70,9 @@ Nothing yet. Have something awesome to share? Send a PR!
 - [Sycamore Hackernews Clone](https://github.com/sycamore-rs/hackernews-sycamore) — A
   [Hackernews](https://news.ycombinator.com) clone built with Sycamore.
 
+- [Geossuget Demo](https://geosuggest.herokuapp.com/) — A
+  UI to demonstrate [geosuggest](https://github.com/estin/geosuggest) usage
+
 ## Libraries
 
 ### Component Libraries

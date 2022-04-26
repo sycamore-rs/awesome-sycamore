@@ -67,11 +67,12 @@ Nothing yet. Have something awesome to share? Send a PR!
 
 ## Built with Sycamore
 
+- [Sycamore Playground](https://github.com/sycamore-rs/playground) — A playground for testing out
+  Sycamore directly in the browser!
 - [Sycamore Hackernews Clone](https://github.com/sycamore-rs/hackernews-sycamore) — A
   [Hackernews](https://news.ycombinator.com) clone built with Sycamore.
-
-- [Geossuget Demo](https://geosuggest.herokuapp.com/) — A
-  UI to demonstrate [geosuggest](https://github.com/estin/geosuggest) usage
+- [Geossuget Demo](https://geosuggest.herokuapp.com/) — An app to demonstrate
+  [geosuggest](https://github.com/estin/geosuggest) usage.
 
 ## Libraries
 

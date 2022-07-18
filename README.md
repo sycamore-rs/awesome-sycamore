@@ -73,6 +73,8 @@ Nothing yet. Have something awesome to share? Send a PR!
   [Hackernews](https://news.ycombinator.com) clone built with Sycamore.
 - [Geossuget Demo](https://geosuggest.herokuapp.com/) — An app to demonstrate
   [geosuggest](https://github.com/estin/geosuggest) usage.
+- [WCLE(wasm creole live editor)](https://github.com/chidea/wasm-creole-live-editor) — A serverless wiki webapp with live preview for
+  [Creole](http://www.wikicreole.org/) markdown language.
 
 ## Libraries
 

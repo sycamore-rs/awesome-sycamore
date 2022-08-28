@@ -71,10 +71,10 @@ Nothing yet. Have something awesome to share? Send a PR!
   Sycamore directly in the browser!
 - [Sycamore Hackernews Clone](https://github.com/sycamore-rs/hackernews-sycamore) — A
   [Hackernews](https://news.ycombinator.com) clone built with Sycamore.
-- [Geossuget Demo](https://geosuggest.herokuapp.com/) — An app to demonstrate
-  [geosuggest](https://github.com/estin/geosuggest) usage.
-- [WCLE(wasm creole live editor)](https://github.com/chidea/wasm-creole-live-editor) — A serverless wiki webapp with live preview for
-  [Creole](http://www.wikicreole.org/) markdown language.
+- [Geossuget Demo](https://github.com/estin/geosuggest) — An app for suggesting cities and finding
+  cities from coordinates.
+- [WCLE (WASM Creole Live Editor)](https://github.com/chidea/wasm-creole-live-editor) — A serverless wiki 
+  webapp with live preview for the [Creole](http://www.wikicreole.org/) markdown language.
 
 ## Libraries
 

@@ -93,4 +93,5 @@ Nothing yet. Have something awesome to share? Send a PR!
 
 ### Misc
 
-Nothing yet. Have something awesome to share? Send a PR!
+- [mdsycx](https://github.com/lukechu10/mdsycx) — markdown with Sycamore! mdsycx lets you use 
+  Sycamore components in your markdown documents.

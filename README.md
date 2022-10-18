@@ -75,6 +75,7 @@ Nothing yet. Have something awesome to share? Send a PR!
   cities from coordinates.
 - [WCLE (WASM Creole Live Editor)](https://github.com/chidea/wasm-creole-live-editor) — A serverless wiki 
   webapp with live preview for the [Creole](http://www.wikicreole.org/) markdown language.
+- [WAssword Generator](https://github.com/Miruzz/wassword-generator) — A WASM Password Generator. [Deployed version](https://wassword-generator.web.app/)
 
 ## Libraries
 

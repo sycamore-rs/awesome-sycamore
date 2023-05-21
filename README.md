@@ -53,6 +53,7 @@ If you have something awesome to share, please send a PR!
 - [Rocket SSR template](https://github.com/sycamore-rs/sycamore-rocket-template) — A
   batteries-included template for Sycamore and Rocket with SSR support. Comes with router and SSR
   support out of the box. Also comes with a [gitpod.io](https://www.gitpod.io) configuration.
+- [Tauri app template](https://github.com/JonasKruckenberg/tauri-sycamore-template) - A template for building desktop apps using Tauri with Sycamore as the frontend. Comes with pre-rendering out-of-the-box.
 
 ### Blog Posts
 

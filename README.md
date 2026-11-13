@@ -18,15 +18,12 @@ If you have something awesome to share, please send a PR!
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [Community](#community)
+  - [Tooling](#tooling)
   - [Templates](#templates)
   - [Blog Posts](#blog-posts)
 - [Frameworks](#frameworks)
 - [Built with Sycamore](#built-with-sycamore)
 - [Libraries](#libraries)
-  - [Component Libraries](#component-libraries)
-  - [Routing](#routing)
-  - [State Management](#state-management)
-  - [Misc](#misc)
 
 ---
 
@@ -34,25 +31,21 @@ If you have something awesome to share, please send a PR!
 
 ### Official Resources
 
-- [Sycamore Book](https://sycamore-rs.netlify.app/docs/getting_started/installation) — The official
-  guide to building awesome apps with Sycamore.
+- [Sycamore Book](https://sycamore.dev/book/introduction) — The official guide to building awesome apps with Sycamore.
 
 ### Community
 
 - [Sycamore Discord Server](https://discord.gg/vDwFUmm6mU) — The official Sycamore discord server to
   talk about all things Sycamore.
+  
+### Tooling
+
+- [`cargo-sycamore`](https://github.com/sycamore-rs/cargo-sycamore) — A CLI tool for building Sycamore apps.
+- [sycamorefmt](https://github.com/sycamore-rs/sycamorefmt) — A formatter for Sycamore's `view!` macro.
 
 ### Templates
 
-- [Trunk + gitpod.io template](https://github.com/sycamore-rs/sycamore-trunk-gitpod-template) — A
-  quick-start bare-bones template for creating a Sycamore app using [Trunk](https://trunkrs.dev).
-  Comes with a [gitpod.io](https://www.gitpod.io) configuration.
-- [Rocket SSR minimal template](https://github.com/sycamore-rs/sycamore-rocket-minimal-template) — A
-  quick-start bare-bones template for Sycamore and Rocket with SSR support. Also comes with a
-  [gitpod.io](https://www.gitpod.io) configuration.
-- [Rocket SSR template](https://github.com/sycamore-rs/sycamore-rocket-template) — A
-  batteries-included template for Sycamore and Rocket with SSR support. Comes with router and SSR
-  support out of the box. Also comes with a [gitpod.io](https://www.gitpod.io) configuration.
+- [`cargo-generate` template](https://github.com/sycamore-rs/template) — Quickly scaffold a new Sycamore app using `cargo-generate`.
 - [Tauri app template](https://github.com/JonasKruckenberg/tauri-sycamore-template) - A template for building desktop apps using Tauri with Sycamore as the frontend. Comes with pre-rendering out-of-the-box.
 
 ### Blog Posts
@@ -78,21 +71,6 @@ Nothing yet. Have something awesome to share? Send a PR!
 - [WAssword Generator](https://github.com/Miruzz/wassword-generator) — A password generator built with WASM. [Deployed version](https://wassword-generator.web.app/)
 
 ## Libraries
-
-### Component Libraries
-
-Nothing yet. Have something awesome to share? Send a PR!
-
-### Routing
-
-- [Sycamore Router](https://github.com/sycamore-rs/sycamore/tree/master/packages/sycamore-router) —
-  The official router for creating single page apps with Sycamore.
-
-### State Management
-
-Nothing yet. Have something awesome to share? Send a PR!
-
-### Misc
 
 - [mdsycx](https://github.com/lukechu10/mdsycx) — markdown with Sycamore! mdsycx lets you use 
   Sycamore components in your markdown documents.

@@ -68,8 +68,7 @@ Nothing yet. Have something awesome to share? Send a PR!
 
 ## Built with Sycamore
 
-- [Sycamore Playground](https://github.com/sycamore-rs/playground) — A playground for testing out
-  Sycamore directly in the browser!
+- [Sycamore Playground](https://play.sycamore.dev) — A playground for testing out Sycamore directly in the browser!
 - [Sycamore Hackernews Clone](https://github.com/sycamore-rs/hackernews-sycamore) — A
   [Hackernews](https://news.ycombinator.com) clone built with Sycamore.
 - [Geossuget Demo](https://github.com/estin/geosuggest) — An app for suggesting cities and finding
